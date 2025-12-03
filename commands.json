@@ -8,7 +8,19 @@
     "flag G1",
     "flag F1",
     "flag C8",
-    "clear B3"
+    "clear B3", 
+    "clear A2", 
+    "clear B2", 
+    "clear C2", 
+    "clear D1", 
+    "clear E1", 
+    "flag H6",
+    "flag E7",
+    "clear F7", 
+    "clear G7", 
+    "clear D8", 
+    "clear E8"
+
   
 
     
